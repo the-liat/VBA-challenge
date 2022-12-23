@@ -1,6 +1,6 @@
 # VBA-challenge
 Homework#2 VBA practice
-#---------------------------------------------------
+
 
 # VBA Homework: The VBA of Wall Street
 
